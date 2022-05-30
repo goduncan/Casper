@@ -1,3 +1,16 @@
+# My Casper
+
+# Changes
+
+* Removing Facebook from default.hbs
+* Adding linkedin including icon
+* Removed the Powered by ghost from default.hbs
+
+
+
+
+
+
 # Casper
 
 The default theme for [Ghost](http://github.com/tryghost/ghost/). This is the latest development version of Casper! If you're just looking to download the latest release, head over to the [releases](https://github.com/TryGhost/Casper/releases) page.
